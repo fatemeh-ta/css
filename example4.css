@@ -1,0 +1,77 @@
+*{
+    box-sizing:border-box
+}
+.class1{
+    width:50%;
+    
+    border:1px solid rgb(163, 162, 162);
+    background-color: rgb(206, 204, 204);
+    height:400px;
+    padding:20px 20px;
+}
+
+h2{
+    font-weight: bold;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.class2{
+
+    width:100%;
+    padding:20px 0px;
+}
+
+input[value="save"]{
+    border:none;
+    background-color: gray;
+    text-align: center;
+    padding:10px;
+    
+}
+
+input[value="reset"]{
+    border:none;
+    background-color: gray;
+    text-align: center;
+    padding:10px;
+    
+}
+
+input{
+    width: 65%;
+    padding:5px;
+}
+
+.class3{
+    float:left;
+    width:60%;
+    padding:20px 0px;
+}
+
+.class4{
+    float:left;
+    width:40%;
+    padding:20px 0px;
+   
+}
+
+.clearfix::after{
+    clear:both;
+    display:table;
+    content:"";
+}
+
+.class5{
+    width:100%;
+    height:auto;
+    border: 1px solid black;
+}
+
+input[value="Choose file"]{
+    width:45%
+
+}
+    

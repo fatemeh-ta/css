@@ -1,0 +1,49 @@
+.nav{
+    color:white;
+    background-color: rgb(66, 141, 78);
+    text-align:center;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.main{
+    width:100%;
+    height:auto;
+    border: 2px solid black;
+    margin:auto;
+    margin-bottom: 5px;
+}
+
+.section1{
+    color:white;
+    background-color: rgb(218, 47, 17);
+    text-align:center;
+    padding: 20px;
+    
+    margin:5px;
+
+}
+
+.section2{
+    color:white;
+    background-color: rgb(241, 194, 63);
+    text-align:center;
+    padding: 20px;
+    margin:5px;
+}
+
+.section3{
+    color:white;
+    background-color:rgb(248, 159, 218);
+    text-align:center;
+    padding: 20px;
+    margin:5px;
+
+}
+
+.footer{
+    color:white;
+    background-color: rgb(12, 115, 211);
+    text-align:center;
+    padding: 5px;
+}

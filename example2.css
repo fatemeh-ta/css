@@ -1,0 +1,28 @@
+ul{
+    background-color: black;
+    margin-left:auto;
+    margin-right: auto;
+    padding:0;
+    overflow:hidden;
+    width: 50%;
+}
+
+li{
+    float:left;
+    
+
+}
+
+li a{
+    text-decoration: none;
+    display:inline-block;
+    color: white;
+    padding:10px 35px;
+
+}
+
+.class1{
+    border-bottom: 3px solid red;
+    
+    
+}
